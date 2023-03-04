@@ -1,0 +1,5 @@
+/build
+/.idea
+/.gradle
+/to-translate.csv
+/result.csv
