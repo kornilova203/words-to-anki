@@ -1,114 +1,117 @@
-die Gymnastik (Sg.)
-sich an|strengen
-das Gehirn, -e
-der Geist, er
-raten (zu + D.), er rät, riet, hat geraten (Ich rate dir, auf deine Gesundheit zu achten.)
-kühlen
-ein|cremen
-der Schatten, -
-die Flüssigkeit,-en
-die Hauptmahlzeit, en
-der Knödel, -
-der Pfannkuchen,
-der Schweinebraten,
-das Steak, -s
-blutig
-essbar
-eiskalt
-atmen
-blass
-schwindelig
-die Brust, #e
-die Schulter,-n
-leiden (an + D.), er leidet, litt, hat gelitten
-im Krankenhaus
-die Heilung, -en
-die Medizin (Sg.)
-das Schmerzmittel,-
-einnehmen, er nimmt ein, nahm ein, hat eingenommen (Medikamente einnehmen)
-auf|lösen
-verschreiben, er verschreibt, verschrieb, hat verschrieben
-krank|schreiben, er schreibt krank, schrieb krank, hat krankgeschrieben
-der Krankenwagen,
-die Notaufnahme, -n
-die Versichertenkarte, n
-der Klinikaufenthalt, -e
-die Entlassung, en
-die Besuchszeit,-en
-der Haupteingang, #e
-der Notausgang, "e
-der Notruf, -e
-der Pfleger, -
-zur Verfügung stehen
-auf|bewahren
-untersagt sein
-warnen (vor + D.)
-zuständig (für + A.)
-der Bademantel, =
-der Hausschuh, -e
-der Schlafanzug, "e
-die Zahnbürste, -n
-die Zahnpasta,-pasten
-kämmen
-die Drogerie, -n
-der Alarmknopf, ñe
-der Apparat, e
-die Bedienungs- anleitung,-en
-die Chipkarte,-n
-die Fernbedienung,-en
-das Festnetz (Sg.)
-der Klang, #e
-der Jazz (Sg.)
-die Klassik (Sg.)
-klassisch
-das Stück, -e (Ich spiele ein Stück von Mozart.)
-beruhigend
-die Wirkung, -en
-empfinden, er empfindet, empfand, hat empfunden
-spüren
-die Forscherin, nen
-feierlich
-besondere Orte
-barrierearm
-familienfreundlich
-fantasievoll
-geeignet (für + A.)
-interaktiv
-ungewöhnlich
-sich wundern (über + A.)
+die Gemeinschaft,-en
+die Gesellschaft, en
+das Zusammenleben (Sg.)
+der Wert, e
+der Respekt (Sg.)
+die Meinungsfreiheit (Sg.)
+die Gleichberechtigung (Sg.)
+die Würde (Sg.)
+die Solidarität (Sg.)
+die Gerechtigkeit (Sg.)
+die Ehrlichkeit (Sg.)
+die Fairness (Sg.)
+die Zivilcourage (Sg.)
+die Sicherheit (Sg.)
+die Erziehung (Sg.)
+das Recht,-e
+regeln
+die Minderheit, en
+das Vorurteil, -e
+die Toleranz (Sg.)
+Engagement
+ehrenamtlich
+die Hilfsbereitschaft (Sg.)
+die Nachhilfe (Sg.)
+bewältigen (eine Aufgabe bewaltigen)
+die Mühe, -n
+das Vorhaben,-
+der Pate, -n
+die Patin, -nen
+die Patenschaft (Sg.)
+die Not, "e (in der Not helfen)
+bedürftig
+die Berufsfeuerwehr,-en
+die Erste Hilfe (Sg.)
+spenden
+Behörden und Arbeitswelt
+das Amt, *er
+der Anspruch, #e (Sie haben Anspruch auf 30 Tage Urlaub.)
+die Vorschrift, en
+ab|melden
+zullassen, er lässt zu, ließ zu, hat zugelassen
+verantwortlich (für + A.)
+zuverlässig
+eine Entscheidung treffen
+das Arbeitsamt, "er
+die Arbeitsstelle, -n
+ein|nehmen, er nimmt ein, nahm ein, hat eingenommen (Geld einnehmen)
+finanzieren
+die Dienstleistung,-en
+Politik
+die Demokratie, -n
+ab|stimmen
+der Bundestag (Sg.)
+der/die Abgeordnete, n
+die Regierung, en
+de Bundeskanzler,
+die Bundeskanzlerin,-nen
+der Minister, -
+die Ministerin,-nen
+der Kandidat, -en
+die Kandidatin,-nen
+die Bürgerversammlung, en
+die EU / Europäische Union (Sg.)
+der Mitgliedsstaat, -en
+die Organisation,-en
+die Vertretung, en
+der Sitz, -e (Die politische Vertretung hat ihren Sitz im Rathaus.)
+erfüllen (eine wichtige Funktion erfüllen)
+schließen, er schließt, schloss, hat geschlossen (einen Vertrag schließen)
+unterzeichmen
+national
+Migration und Flucht
+die Flucht, en
+der Krieg, -e (Krieg führen)
+die Aufnahme (Sg.)
+die Integration (Sg.)
+der Migrant, en
+de Migrantin, "hen
+Lebensmittel
+die Aptesine -n
+die Orange, n
+die Aprikose, -n
+die Pflaume, -n
+die Zwetschge/Zwetscnke -n
+die Konfitüre,-n
+die Semmel, -n (Süddeutsch)
+das Hörnchen,-
+das Croissant, -s
+die Margarine, n
+das Milchprodukt, -e
+die Vollmilch (Sg.)
+der Quark (Sg.)
+die Schlagsahne (Sg.)
+der Pudding, -e/-s
+das Hackfleisch (Sg.)
+das Hühnchen,•
+der/das Ketchup, 5
+die Soße, -n
+das Gewürz, e
+würzen
+die Lieferung, en
 andere wichtige Wörter und Wendungen
-alltäglich
-ausreichend
-die Beerdigung, en
-betragen, er beträgt, betrug, hat betragen
-bisher
-brauchen ... zu (Sie brau- chen mich nur zu rufen, wenn ich Ihnen helfen soll.)
-einigermaßen
-einschließlich
-vermutlich
-gelangen
-glatt
-grundsätzlich
-kleben
-das Rätsel,•
-kommen (auf + A.), er kommt, kam, ist gekommen (Ich komme gerade nicht auf die Lösung.)
-durch den Kopf gehen
-mithilfe (von + D.)
-der Moderator, -en
-die Motivation (Sg.)
-motiviert
-die Nachfrage, -n
-obere
-die Reklame, -n
-der Rest, -e
-die Rücksicht (Sg.) (Bitte nehmen Sie Rücksicht auf Ire Nachbarn.)
-zur Seite gehen
-sichtbar
-sinken, er sinkt, sank, ist gesunken
-überprüfen
-einerseits ..., andererseits
-entweder . .. oder
-nicht nur ..., sondern auch
-sowohl ... als auch
-weder ... noch
-zwar ..., aber
+zunächst
+im Lauf (+ G.) (im Lauf der Zeit)
+übrig
+das Ding, e (Das ist voll mein Ding.)
+der Vortrag, -e
+sichern (Bildung sichert die Zukunft.)
+heraus|finden, er findet heraus, fand heraus, hat herausgefunden
+körperlich
+blind
+der Humor (Sg.)
+die Auswahl (Sg.) (eine Auswahl treffen)
+endgultig
+entsorgen
+erschemnen, er erscheint erschien, ist erschienen
+werden (Er wird in Erste Hilfe ausgebildet.)

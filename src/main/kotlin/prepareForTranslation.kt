@@ -1,21 +1,25 @@
 import java.io.File
 
-val pluralFormRegex = Regex(", ?-?(er|en|nen|e|n|s|\"e|#e|ñe|=|¨e|¨)(?=\$| \\()")
+val pluralFormRegex = Regex("(, ?-?| -)(er|en|nen|e|n|s|\"e|#e|\\*er|\"er|ñe|=|¨e|¨er|¨|\"hen|5)(?=\$| \\()")
 val nullPluralForms = Regex("(, -|,-|,•|,)$")
 val correctNullPluralForm = Regex(", -$")
-val kasus = Regex(" ?\\((an|zu|vor|für|über|auf|von) \\+ (D|A)\\.\\)")
+val kasus = Regex(" ?\\(((an|zu|vor|für|über|auf|von) )?\\+ (D|A|G)\\.\\)")
 val lineSplit = Regex("(?<=\\w)- (?=\\w)")
+val spaces = Regex(" +")
 
 fun main() {
     val result = File("words-list.txt").readLines()
         .map { line ->
             val cleanLine = line
                 .replace(". ..", "...")
-                .replace(pluralFormRegex, ", -$1")
+                .replace(pluralFormRegex, ", -$2")
                 .replace(", -#e", ", -¨e")
                 .replace(", -\"e", ", -¨e")
                 .replace(", -ñe", ", -¨e")
                 .replace(", -=", ", -¨")
+                .replace(", -\"hen", ", -nen")
+                .replace(", -*er", ", -¨er")
+                .replace(", -5", ", -s")
                 .replace(lineSplit, "")
                 .replace(nullPluralForms, ", -")
 
@@ -26,6 +30,8 @@ fun main() {
                 .replace(pluralFormRegex, "")
                 .replace(correctNullPluralForm, "")
                 .replace(kasus, "")
+                .replace(spaces, " ")
+                .replace(", -e/-s", "")
 
             Pair(cleanLine, readyToTranslate)
         }
